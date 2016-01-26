@@ -1,31 +1,27 @@
 # C
-Various learning and experimentation in C
+## Various learning and experimentation in C
 
-Hello World
-Make Change
-Grow
+### To do
 
-Make Initials
-Caesar Cipher
-Vigenère Cipher
+- [ ] Hello World
+- [ ] Make Change
+- [ ] Grow
+- [ ] Make Initials
+- [ ] Caesar Cipher
+- [ ] Vigenère Cipher
+- [ ] Caesar Breaker
+- [ ] Vigenère Breaker
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Quicksort?
+- [ ] Merge Sort
+- [ ] Linear Search
+- [ ] Binary Search
+- [ ] Sliding Puzzle
+- [ ] Boolean Game
 
-Caesar Breaker
-Vigenère Breaker
-
-Bubble Sort
-Selection Sort
-Insertion Sort
-Quicksort?
-Merge Sort
-
-Linear Search
-Binary Search
-
-Sliding Puzzle
-Boolean Game
-
-
-
+### Other Ideas
 Reverse String
 Pig Latin
 Vowel Count
