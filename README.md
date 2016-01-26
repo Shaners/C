@@ -1,7 +1,7 @@
 # C
-## Various learning and experimentation in C
+### Various learning and experimentation in C
 
-### To do
+#### To do
 
 - [ ] Hello World
 - [ ] Make Change
@@ -21,7 +21,7 @@
 - [ ] Sliding Puzzle
 - [ ] Boolean Game
 
-### Other Ideas
+#### Other Ideas
 Reverse String
 Pig Latin
 Vowel Count
