@@ -23,23 +23,23 @@ Various learning and experimentation in C
 - [ ] Boolean Game
 
 ### Other Ideas
-Reverse String
-Pig Latin
-Vowel Count
-Palindrome Check
-Word Count
-Text Editor??
-RSS Feed Creator??
-Post it Notes
-Quote Tracker
-Guestbook / Journal
-News Ticker and Scores
-Horoscope Teller
-Send a Cipher
-Random Gift Generator
-Text to HTML
-Key Generator
-Regex Query
+- Reverse String
+- Pig Latin
+- Vowel Count
+- Palindrome Check
+- Word Count
+- Text Editor??
+- RSS Feed Creator??
+- Post it Notes
+- Quote Tracker
+- Guestbook / Journal
+- News Ticker and Scores
+- Horoscope Teller
+- Send a Cipher
+- Random Gift Generator
+- Text to HTML
+- Key Generator
+- Regex Query
 
 ## Installation
 
