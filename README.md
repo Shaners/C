@@ -1,6 +1,8 @@
-# C - Various learning and experimentation in C
+# C
 
-## To do
+Various learning and experimentation in C
+
+## Task List
 
 - [ ] Hello World
 - [ ] Make Change
@@ -20,7 +22,7 @@
 - [ ] Sliding Puzzle
 - [ ] Boolean Game
 
-## Other Ideas
+### Other Ideas
 Reverse String
 Pig Latin
 Vowel Count
@@ -38,3 +40,27 @@ Random Gift Generator
 Text to HTML
 Key Generator
 Regex Query
+
+## Installation
+
+TODO: Describe the installation process
+
+## Usage
+
+TODO: Write usage instructions
+
+## Contributing
+
+TODO: Write contributing instructions
+
+## History
+
+TODO: Write history
+
+## Credits
+
+TODO: Write credits
+
+## License
+
+TODO: Write license
