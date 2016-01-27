@@ -158,26 +158,43 @@ Various learning and experimentation in C
 * Easy Challenge #4 - Random password generator
 * Easy Challenge #5 - Password protected program
 
-## Installation
+## ~~Installation~~ 
 
-TODO: Describe the installation process
+You don't really install this.
 
 ## Usage
 
-TODO: Write usage instructions
+A resource with examples of how to accomplish certain things in this programming language.
 
-## Contributing
+## ~~Contributing~~
 
-TODO: Write contributing instructions
+You don't really need to contribute but it isn't out of the question.
 
 ## History
 
-TODO: Write history
+```
+v0.0.1:
+  date: ~2016-01-27
+  changes: 
+    - Created README.md and started laying out the plan and task list.
+```
+
+| Version | Date | Changes |
+| ------- | ---- | ------- |
+| **v0.0.1** | *TDB* | Created README.md |
+| | | Started laying out the plan and task list. |
+| | | another item |
+| | | other action performed :dog2::poop: |
+| | | a table is kind of cool |
+
+TODO: Make a decision on whether a changelog table is useful or not
 
 ## Credits
 
-TODO: Write credits
+Created by Shane Lister
+
+TODO: Is this dumb?
 
 ## License
 
-TODO: Write license
+TODO: Write license, MIT??
