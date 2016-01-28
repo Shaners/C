@@ -166,34 +166,17 @@ Various learning and experimentation in C
 
 A resource with examples of how to accomplish certain things in this programming language.
 
-## ~~Contributing~~
-
-You don't really need to contribute but it isn't out of the question.
-
 ## History
-
-```
-v0.0.1:
-  date: ~2016-01-27
-  changes: 
-    - Created README.md and started laying out the plan and task list.
-```
 
 | Version | Date | Changes |
 | ------- | ---- | ------- |
-| **v0.0.1** | *TDB* | Created README.md |
-| | | Started laying out the plan and task list. |
-| | | another item |
-| | | other action performed :dog2::poop: |
-| | | a table is kind of cool |
-
-TODO: Make a decision on whether a changelog table is useful or not
+| **v0.0.1** | *TBD* | Created README.md |
+| | | Created LICENSE.md |
+| | | Created CHANGELOG.md |
 
 ## Credits
 
 Created by Shane Lister
-
-TODO: Is this dumb?
 
 ## License
 
