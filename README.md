@@ -168,6 +168,8 @@ A resource with examples of how to accomplish certain things in this programming
 
 ## History
 
+[CHANGELOG.md](./CHANGELOG.md)
+
 | Version | Date | Changes |
 | ------- | ---- | ------- |
 | **v0.0.1** | *TBD* | Created README.md |
@@ -180,4 +182,4 @@ Created by Shane Lister
 
 ## License
 
-The MIT License (MIT)
+The MIT License (MIT) - [LICENSE.md](./LICENSE.md)
