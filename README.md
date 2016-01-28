@@ -158,9 +158,9 @@ Various learning and experimentation in C
 * Easy Challenge #4 - Random password generator
 * Easy Challenge #5 - Password protected program
 
-## ~~Installation~~ 
+## Installation
 
-You don't really install this.
+```git clone https://github.com/Shaners/C.git```
 
 ## Usage
 
@@ -197,4 +197,4 @@ TODO: Is this dumb?
 
 ## License
 
-TODO: Write license, MIT??
+The MIT License (MIT)
