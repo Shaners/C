@@ -4,7 +4,7 @@ Various learning and experimentation in C
 
 ## Task List
 
-- [ ] Hello World
+- [X] Hello World
 - [ ] Make Change
 - [ ] Grow
 - [ ] Make Initials
@@ -166,15 +166,25 @@ Various learning and experimentation in C
 
 A resource with examples of how to accomplish certain things in this programming language.
 
+1. Compile the .c file you are interested in
+2. Execute, providing arguments as needed
+3. Review code in .c file
+
+###hello.c
+Run ```./hello```
+
+Sanity check, for beginners, or people returning to C after being away for awhile.
+
 ## History
 
-[CHANGELOG.md](./CHANGELOG.md)
+See full log in [CHANGELOG.md](./CHANGELOG.md)
 
 | Version | Date | Changes |
 | ------- | ---- | ------- |
-| **v0.0.1** | *TBD* | Created README.md |
+| **v0.0.1** | 2016-01-28 | Created README.md |
 | | | Created LICENSE.md |
 | | | Created CHANGELOG.md |
+| | | Created hello.c |
 
 ## Credits
 
