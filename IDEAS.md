@@ -123,6 +123,7 @@ Brainstorm and plan ideas here that would make good components to work on. Add t
 - Turtle Graphics
 
 ## Games
+- Text Adventure
 - Battleship
 - Chess and Checkers
 - Hangman
