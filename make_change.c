@@ -1,22 +1,58 @@
+//#include <cs50.h>
+//#include <math.h>
+//#include <stdio.h>
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <float.h>
+
 #include <limits.h>
 #include <stdbool.h>
 
 typedef char* string;
 
-string GetString(void);
+float GetFloat(void);
 
 int main(void)
 {
-    printf("Welcome!\nMay I have your name? ");
-    string name = GetString();
+    float amount;
+    
+    printf("How much change is owned? \n");
+    amount = GetFloat();
+    
+    printf("Amount of change is: %f\n", amount);
+    
+    // float n;
+    // int cents;
+    // int coin_count = 0;
 
-    printf("It's so nice to meet you %s!\nI hope you have a most wonderful day!\n", name);
+    // do 
+    // {
+    //     printf("How much change is owned? \n");
+    //     n = GetFloat();
+    //     n *= 100.00;
+    //     cents = (int) round(n);
+    // }
+    // while (n < 1);
+
+    // coin_count += cents / 25;
+    // cents = cents % 25;
+
+    // coin_count += cents / 10;
+    // cents = cents % 10;
+
+    // coin_count += cents / 5;
+    // cents = cents % 5;
+
+    // coin_count += cents / 1;
+    // cents = cents % 1;
+
+    // printf("%d\n", coin_count);
+
 }
 
-//Excerpt from CS50 Library in order to use GetString()
+//Excerpt from CS50 Library in order to use GetFloat()
 
 /****************************************************************************
  * CS50 Library 6
@@ -131,4 +167,39 @@ string GetString(void)
 
     // return string
     return minimal;
+}
+
+/**
+ * Reads a line of text from standard input and returns the equivalent
+ * float as precisely as possible; if text does not represent a float,
+ * user is prompted to retry.  Leading and trailing whitespace is ignored.
+ * For simplicity, overflow and underflow are not detected.  If line can't
+ * be read, returns FLT_MAX.
+ */
+float GetFloat(void)
+{
+    // try to get a float from user
+    while (true)
+    {
+        // get line of text, returning FLT_MAX on failure
+        string line = GetString();
+        if (line == NULL)
+        {
+            return FLT_MAX;
+        }
+
+        // return a float if only a float (possibly with
+        // leading and/or trailing whitespace) was provided
+        char c; float f;
+        if (sscanf(line, " %f %c", &f, &c) == 1)
+        {
+            free(line);
+            return f;
+        }
+        else
+        {
+            free(line);
+            printf("Retry: ");
+        }
+    }
 }
